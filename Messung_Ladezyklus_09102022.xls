@@ -1,0 +1,2047 @@
+﻿<html xmlns="http://www.w3.org/TR/REC-html40" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <style type="text/css">
+          .thead td{
+          white-space:nowrap;
+          font-weight:bold;
+          }
+          .tbody .col1{
+          width:150px;
+          }
+          .nowarp{
+          white-space:nowrap;
+          }
+          
+					.tbody .col1{
+					mso-number-format:"\@";
+					}
+					.tbody .col2{
+					
+					}
+					.tbody .col3{
+					
+					}
+					.tbody .col4{
+					
+					}</style>
+				<!--[if gte mso 9]><xml>
+				 <x:ExcelWorkbook>
+				  <x:ExcelWorksheets>
+				   <x:ExcelWorksheet>
+					<x:Name>Report</x:Name>
+					<x:WorksheetOptions>
+					 <x:Selected/>
+					</x:WorksheetOptions>
+				   </x:ExcelWorksheet>
+				  </x:ExcelWorksheets>
+				 </x:ExcelWorkbook>
+				</xml><![endif]-->
+				</head>
+  <body>
+    <table border="0">
+      <tr>
+        <td class="nowarp">Startzeit: 09-11-2022 18:28:00</td>
+      </tr>
+      <tr>
+        <td class="nowarp">Endzeit: 09-11-2022 23:56:00</td>
+      </tr>
+      <tr>
+        <td class="nowarp">Daten Anzahl: 329</td>
+      </tr>
+      <tr>
+        <td class="nowarp">Stromstärke (A) Max: 0,537 09-11-2022 18:57:00	 Min: 0 09-11-2022 18:28:00	 Avg: 0,11</td>
+      </tr>
+      <tr>
+        <td class="nowarp">Wirkleistung (W) Max: 61,047 09-11-2022 19:00:00	 Min: 0 09-11-2022 18:28:00	 Avg: 10,92</td>
+      </tr>
+      <tr>
+        <td class="nowarp">Scheinleistung (W) Max: 123,1878 09-11-2022 18:58:00	 Min: 0 09-11-2022 18:28:00	 Avg: 25,85</td>
+      </tr>
+      <tr>
+        <td class="nowarp">
+        </td>
+      </tr>
+      <tr class="thead">
+        <td class="col1">Aufnahmezeit</td>
+        <td class="col2">Stromstärke (A)</td>
+        <td class="col3">Wirkleistung (W)</td>
+        <td class="col4">Scheinleistung (W)</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 18:28:00</td>
+        <td class="col2" x:num="0">0</td>
+        <td class="col3" x:num="0">0</td>
+        <td class="col4" x:num="0">0</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 18:29:00</td>
+        <td class="col2" x:num="0">0</td>
+        <td class="col3" x:num="0">0</td>
+        <td class="col4" x:num="0">0</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 18:30:00</td>
+        <td class="col2" x:num="0.199">0,199</td>
+        <td class="col3" x:num="10.034376">10,034376</td>
+        <td class="col4" x:num="45.6108">45,6108</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 18:31:00</td>
+        <td class="col2" x:num="0.478">0,478</td>
+        <td class="col3" x:num="55.898754">55,898754</td>
+        <td class="col4" x:num="109.6054">109,6054</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 18:32:00</td>
+        <td class="col2" x:num="0.488">0,488</td>
+        <td class="col3" x:num="57.043296">57,043296</td>
+        <td class="col4" x:num="111.8496">111,8496</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 18:33:00</td>
+        <td class="col2" x:num="0.493">0,493</td>
+        <td class="col3" x:num="57.627756">57,627756</td>
+        <td class="col4" x:num="112.9956">112,9956</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 18:34:00</td>
+        <td class="col2" x:num="0.499">0,499</td>
+        <td class="col3" x:num="58.303659">58,303659</td>
+        <td class="col4" x:num="114.3209">114,3209</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 18:35:00</td>
+        <td class="col2" x:num="0.506">0,506</td>
+        <td class="col3" x:num="57.9623">57,9623</td>
+        <td class="col4" x:num="115.9246">115,9246</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 18:36:00</td>
+        <td class="col2" x:num="0.51">0,51</td>
+        <td class="col3" x:num="58.4205">58,4205</td>
+        <td class="col4" x:num="116.841">116,841</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 18:37:00</td>
+        <td class="col2" x:num="0.513">0,513</td>
+        <td class="col3" x:num="58.81545">58,81545</td>
+        <td class="col4" x:num="117.6309">117,6309</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 18:38:00</td>
+        <td class="col2" x:num="0.517">0,517</td>
+        <td class="col3" x:num="59.2482">59,2482</td>
+        <td class="col4" x:num="118.4964">118,4964</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 18:39:00</td>
+        <td class="col2" x:num="0.52">0,52</td>
+        <td class="col3" x:num="59.592">59,592</td>
+        <td class="col4" x:num="119.184">119,184</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 18:40:00</td>
+        <td class="col2" x:num="0.519">0,519</td>
+        <td class="col3" x:num="59.4774">59,4774</td>
+        <td class="col4" x:num="118.9548">118,9548</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 18:41:00</td>
+        <td class="col2" x:num="0.522">0,522</td>
+        <td class="col3" x:num="59.769">59,769</td>
+        <td class="col4" x:num="119.538">119,538</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 18:42:00</td>
+        <td class="col2" x:num="0.521">0,521</td>
+        <td class="col3" x:num="59.6545">59,6545</td>
+        <td class="col4" x:num="119.309">119,309</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 18:43:00</td>
+        <td class="col2" x:num="0.522">0,522</td>
+        <td class="col3" x:num="59.7951">59,7951</td>
+        <td class="col4" x:num="119.5902">119,5902</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 18:44:00</td>
+        <td class="col2" x:num="0.522">0,522</td>
+        <td class="col3" x:num="59.7951">59,7951</td>
+        <td class="col4" x:num="119.5902">119,5902</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 18:45:00</td>
+        <td class="col2" x:num="0.524">0,524</td>
+        <td class="col3" x:num="58.823716">58,823716</td>
+        <td class="col4" x:num="120.0484">120,0484</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 18:46:00</td>
+        <td class="col2" x:num="0.52">0,52</td>
+        <td class="col3" x:num="59.566">59,566</td>
+        <td class="col4" x:num="119.132">119,132</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 18:47:00</td>
+        <td class="col2" x:num="0.521">0,521</td>
+        <td class="col3" x:num="59.73265">59,73265</td>
+        <td class="col4" x:num="119.4653">119,4653</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 18:48:00</td>
+        <td class="col2" x:num="0.522">0,522</td>
+        <td class="col3" x:num="59.8212">59,8212</td>
+        <td class="col4" x:num="119.6424">119,6424</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 18:49:00</td>
+        <td class="col2" x:num="0.523">0,523</td>
+        <td class="col3" x:num="59.9358">59,9358</td>
+        <td class="col4" x:num="119.8716">119,8716</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 18:50:00</td>
+        <td class="col2" x:num="0.525">0,525</td>
+        <td class="col3" x:num="60.19125">60,19125</td>
+        <td class="col4" x:num="120.3825">120,3825</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 18:51:00</td>
+        <td class="col2" x:num="0.532">0,532</td>
+        <td class="col3" x:num="59.747856">59,747856</td>
+        <td class="col4" x:num="121.9344">121,9344</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 18:52:00</td>
+        <td class="col2" x:num="0.531">0,531</td>
+        <td class="col3" x:num="59.609529">59,609529</td>
+        <td class="col4" x:num="121.6521">121,6521</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 18:53:00</td>
+        <td class="col2" x:num="0.53">0,53</td>
+        <td class="col3" x:num="59.54921">59,54921</td>
+        <td class="col4" x:num="121.529">121,529</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 18:54:00</td>
+        <td class="col2" x:num="0.533">0,533</td>
+        <td class="col3" x:num="59.912398">59,912398</td>
+        <td class="col4" x:num="122.2702">122,2702</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 18:55:00</td>
+        <td class="col2" x:num="0.532">0,532</td>
+        <td class="col3" x:num="59.669652">59,669652</td>
+        <td class="col4" x:num="121.7748">121,7748</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 18:56:00</td>
+        <td class="col2" x:num="0.535">0,535</td>
+        <td class="col3" x:num="60.03235">60,03235</td>
+        <td class="col4" x:num="122.515">122,515</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 18:57:00</td>
+        <td class="col2" x:num="0.537">0,537</td>
+        <td class="col3" x:num="60.335709">60,335709</td>
+        <td class="col4" x:num="123.1341">123,1341</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 18:58:00</td>
+        <td class="col2" x:num="0.537">0,537</td>
+        <td class="col3" x:num="60.362022">60,362022</td>
+        <td class="col4" x:num="123.1878">123,1878</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 18:59:00</td>
+        <td class="col2" x:num="0.534">0,534</td>
+        <td class="col3" x:num="60.05097">60,05097</td>
+        <td class="col4" x:num="122.553">122,553</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:00:00</td>
+        <td class="col2" x:num="0.532">0,532</td>
+        <td class="col3" x:num="61.047">61,047</td>
+        <td class="col4" x:num="122.094">122,094</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:01:00</td>
+        <td class="col2" x:num="0.516">0,516</td>
+        <td class="col3" x:num="59.1594">59,1594</td>
+        <td class="col4" x:num="118.3188">118,3188</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:02:00</td>
+        <td class="col2" x:num="0.505">0,505</td>
+        <td class="col3" x:num="59.056215">59,056215</td>
+        <td class="col4" x:num="115.7965">115,7965</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:03:00</td>
+        <td class="col2" x:num="0.494">0,494</td>
+        <td class="col3" x:num="57.769842">57,769842</td>
+        <td class="col4" x:num="113.2742">113,2742</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:04:00</td>
+        <td class="col2" x:num="0.485">0,485</td>
+        <td class="col3" x:num="55.60525">55,60525</td>
+        <td class="col4" x:num="111.2105">111,2105</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:05:00</td>
+        <td class="col2" x:num="0.472">0,472</td>
+        <td class="col3" x:num="54.0912">54,0912</td>
+        <td class="col4" x:num="108.1824">108,1824</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:06:00</td>
+        <td class="col2" x:num="0.458">0,458</td>
+        <td class="col3" x:num="53.559894">53,559894</td>
+        <td class="col4" x:num="105.0194">105,0194</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:07:00</td>
+        <td class="col2" x:num="0.444">0,444</td>
+        <td class="col3" x:num="51.990624">51,990624</td>
+        <td class="col4" x:num="101.9424">101,9424</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:08:00</td>
+        <td class="col2" x:num="0.433">0,433</td>
+        <td class="col3" x:num="50.702568">50,702568</td>
+        <td class="col4" x:num="99.4168">99,4168</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:09:00</td>
+        <td class="col2" x:num="0.422">0,422</td>
+        <td class="col3" x:num="48.4034">48,4034</td>
+        <td class="col4" x:num="96.8068">96,8068</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:10:00</td>
+        <td class="col2" x:num="0.319">0,319</td>
+        <td class="col3" x:num="36.5893">36,5893</td>
+        <td class="col4" x:num="73.1786">73,1786</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:11:00</td>
+        <td class="col2" x:num="0.319">0,319</td>
+        <td class="col3" x:num="37.337355">37,337355</td>
+        <td class="col4" x:num="73.2105">73,2105</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:12:00</td>
+        <td class="col2" x:num="0.383">0,383</td>
+        <td class="col3" x:num="44.808702">44,808702</td>
+        <td class="col4" x:num="87.8602">87,8602</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:13:00</td>
+        <td class="col2" x:num="0.368">0,368</td>
+        <td class="col3" x:num="43.053792">43,053792</td>
+        <td class="col4" x:num="84.4192">84,4192</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:14:00</td>
+        <td class="col2" x:num="0.356">0,356</td>
+        <td class="col3" x:num="41.649864">41,649864</td>
+        <td class="col4" x:num="81.6664">81,6664</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:15:00</td>
+        <td class="col2" x:num="0.342">0,342</td>
+        <td class="col3" x:num="40.02939">40,02939</td>
+        <td class="col4" x:num="78.489">78,489</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:16:00</td>
+        <td class="col2" x:num="0.329">0,329</td>
+        <td class="col3" x:num="38.474247">38,474247</td>
+        <td class="col4" x:num="75.4397">75,4397</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:17:00</td>
+        <td class="col2" x:num="0.317">0,317</td>
+        <td class="col3" x:num="37.087098">37,087098</td>
+        <td class="col4" x:num="72.7198">72,7198</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:18:00</td>
+        <td class="col2" x:num="0.305">0,305</td>
+        <td class="col3" x:num="35.667615">35,667615</td>
+        <td class="col4" x:num="69.9365">69,9365</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:19:00</td>
+        <td class="col2" x:num="0.294">0,294</td>
+        <td class="col3" x:num="34.381242">34,381242</td>
+        <td class="col4" x:num="67.4142">67,4142</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:20:00</td>
+        <td class="col2" x:num="0.284">0,284</td>
+        <td class="col3" x:num="32.5322">32,5322</td>
+        <td class="col4" x:num="65.0644">65,0644</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:21:00</td>
+        <td class="col2" x:num="0.274">0,274</td>
+        <td class="col3" x:num="31.4004">31,4004</td>
+        <td class="col4" x:num="62.8008">62,8008</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:22:00</td>
+        <td class="col2" x:num="0.266">0,266</td>
+        <td class="col3" x:num="30.4703">30,4703</td>
+        <td class="col4" x:num="60.9406">60,9406</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:23:00</td>
+        <td class="col2" x:num="0.259">0,259</td>
+        <td class="col3" x:num="29.075081">29,075081</td>
+        <td class="col4" x:num="59.3369">59,3369</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:24:00</td>
+        <td class="col2" x:num="0.252">0,252</td>
+        <td class="col3" x:num="27.711936">27,711936</td>
+        <td class="col4" x:num="57.7332">57,7332</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:25:00</td>
+        <td class="col2" x:num="0.248">0,248</td>
+        <td class="col3" x:num="26.703896">26,703896</td>
+        <td class="col4" x:num="56.8168">56,8168</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:26:00</td>
+        <td class="col2" x:num="0.242">0,242</td>
+        <td class="col3" x:num="25.503412">25,503412</td>
+        <td class="col4" x:num="55.4422">55,4422</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:27:00</td>
+        <td class="col2" x:num="0.235">0,235</td>
+        <td class="col3" x:num="24.76571">24,76571</td>
+        <td class="col4" x:num="53.8385">53,8385</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:28:00</td>
+        <td class="col2" x:num="0.23">0,23</td>
+        <td class="col3" x:num="23.73255">23,73255</td>
+        <td class="col4" x:num="52.739">52,739</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:29:00</td>
+        <td class="col2" x:num="0.224">0,224</td>
+        <td class="col3" x:num="22.609664">22,609664</td>
+        <td class="col4" x:num="51.3856">51,3856</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:30:00</td>
+        <td class="col2" x:num="0.218">0,218</td>
+        <td class="col3" x:num="21.51333">21,51333</td>
+        <td class="col4" x:num="50.031">50,031</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:31:00</td>
+        <td class="col2" x:num="0.211">0,211</td>
+        <td class="col3" x:num="20.804389">20,804389</td>
+        <td class="col4" x:num="48.3823">48,3823</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:32:00</td>
+        <td class="col2" x:num="0.204">0,204</td>
+        <td class="col3" x:num="19.654992">19,654992</td>
+        <td class="col4" x:num="46.7976">46,7976</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:33:00</td>
+        <td class="col2" x:num="0.198">0,198</td>
+        <td class="col3" x:num="18.622692">18,622692</td>
+        <td class="col4" x:num="45.4212">45,4212</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:34:00</td>
+        <td class="col2" x:num="0.193">0,193</td>
+        <td class="col3" x:num="18.144509">18,144509</td>
+        <td class="col4" x:num="44.2549">44,2549</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:35:00</td>
+        <td class="col2" x:num="0.189">0,189</td>
+        <td class="col3" x:num="17.33508">17,33508</td>
+        <td class="col4" x:num="43.3377">43,3377</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:36:00</td>
+        <td class="col2" x:num="0.185">0,185</td>
+        <td class="col3" x:num="16.55121">16,55121</td>
+        <td class="col4" x:num="42.439">42,439</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:37:00</td>
+        <td class="col2" x:num="0.182">0,182</td>
+        <td class="col3" x:num="15.851472">15,851472</td>
+        <td class="col4" x:num="41.7144">41,7144</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:38:00</td>
+        <td class="col2" x:num="0.177">0,177</td>
+        <td class="col3" x:num="15.409266">15,409266</td>
+        <td class="col4" x:num="40.5507">40,5507</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:39:00</td>
+        <td class="col2" x:num="0.171">0,171</td>
+        <td class="col3" x:num="14.886918">14,886918</td>
+        <td class="col4" x:num="39.1761">39,1761</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:40:00</td>
+        <td class="col2" x:num="0.169">0,169</td>
+        <td class="col3" x:num="14.331876">14,331876</td>
+        <td class="col4" x:num="38.7348">38,7348</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:41:00</td>
+        <td class="col2" x:num="0.164">0,164</td>
+        <td class="col3" x:num="13.89572">13,89572</td>
+        <td class="col4" x:num="37.556">37,556</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:42:00</td>
+        <td class="col2" x:num="0.16">0,16</td>
+        <td class="col3" x:num="13.18464">13,18464</td>
+        <td class="col4" x:num="36.624">36,624</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:43:00</td>
+        <td class="col2" x:num="0.063">0,063</td>
+        <td class="col3" x:num="5.200524">5,200524</td>
+        <td class="col4" x:num="14.4459">14,4459</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:44:00</td>
+        <td class="col2" x:num="0.063">0,063</td>
+        <td class="col3" x:num="5.05386">5,05386</td>
+        <td class="col4" x:num="14.4396">14,4396</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:45:00</td>
+        <td class="col2" x:num="0.063">0,063</td>
+        <td class="col3" x:num="5.051655">5,051655</td>
+        <td class="col4" x:num="14.4333">14,4333</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:46:00</td>
+        <td class="col2" x:num="0.144">0,144</td>
+        <td class="col3" x:num="11.55672">11,55672</td>
+        <td class="col4" x:num="33.0192">33,0192</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:47:00</td>
+        <td class="col2" x:num="0.141">0,141</td>
+        <td class="col3" x:num="11.32089">11,32089</td>
+        <td class="col4" x:num="32.3454">32,3454</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:48:00</td>
+        <td class="col2" x:num="0.063">0,063</td>
+        <td class="col3" x:num="4.91589">4,91589</td>
+        <td class="col4" x:num="14.4585">14,4585</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:49:00</td>
+        <td class="col2" x:num="0.063">0,063</td>
+        <td class="col3" x:num="4.913748">4,913748</td>
+        <td class="col4" x:num="14.4522">14,4522</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:50:00</td>
+        <td class="col2" x:num="0.129">0,129</td>
+        <td class="col3" x:num="10.057098">10,057098</td>
+        <td class="col4" x:num="29.5797">29,5797</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:51:00</td>
+        <td class="col2" x:num="0.125">0,125</td>
+        <td class="col3" x:num="9.458625">9,458625</td>
+        <td class="col4" x:num="28.6625">28,6625</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:52:00</td>
+        <td class="col2" x:num="0.122">0,122</td>
+        <td class="col3" x:num="9.231618">9,231618</td>
+        <td class="col4" x:num="27.9746">27,9746</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:53:00</td>
+        <td class="col2" x:num="0.118">0,118</td>
+        <td class="col3" x:num="8.932836">8,932836</td>
+        <td class="col4" x:num="27.0692">27,0692</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:54:00</td>
+        <td class="col2" x:num="0.114">0,114</td>
+        <td class="col3" x:num="8.626266">8,626266</td>
+        <td class="col4" x:num="26.1402">26,1402</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:55:00</td>
+        <td class="col2" x:num="0.111">0,111</td>
+        <td class="col3" x:num="8.406585">8,406585</td>
+        <td class="col4" x:num="25.4745">25,4745</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:56:00</td>
+        <td class="col2" x:num="0.107">0,107</td>
+        <td class="col3" x:num="8.103645">8,103645</td>
+        <td class="col4" x:num="24.5565">24,5565</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:57:00</td>
+        <td class="col2" x:num="0.105">0,105</td>
+        <td class="col3" x:num="7.71456">7,71456</td>
+        <td class="col4" x:num="24.108">24,108</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:58:00</td>
+        <td class="col2" x:num="0.102">0,102</td>
+        <td class="col3" x:num="7.497408">7,497408</td>
+        <td class="col4" x:num="23.4294">23,4294</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 19:59:00</td>
+        <td class="col2" x:num="0.099">0,099</td>
+        <td class="col3" x:num="7.276896">7,276896</td>
+        <td class="col4" x:num="22.7403">22,7403</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:00:00</td>
+        <td class="col2" x:num="0.096">0,096</td>
+        <td class="col3" x:num="7.053312">7,053312</td>
+        <td class="col4" x:num="22.0416">22,0416</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:01:00</td>
+        <td class="col2" x:num="0.094">0,094</td>
+        <td class="col3" x:num="6.906368">6,906368</td>
+        <td class="col4" x:num="21.5824">21,5824</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:02:00</td>
+        <td class="col2" x:num="0.091">0,091</td>
+        <td class="col3" x:num="6.691776">6,691776</td>
+        <td class="col4" x:num="20.9118">20,9118</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:03:00</td>
+        <td class="col2" x:num="0.089">0,089</td>
+        <td class="col3" x:num="6.547552">6,547552</td>
+        <td class="col4" x:num="20.4611">20,4611</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:04:00</td>
+        <td class="col2" x:num="0.086">0,086</td>
+        <td class="col3" x:num="6.129134">6,129134</td>
+        <td class="col4" x:num="19.7714">19,7714</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:05:00</td>
+        <td class="col2" x:num="0.082">0,082</td>
+        <td class="col3" x:num="5.844058">5,844058</td>
+        <td class="col4" x:num="18.8518">18,8518</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:06:00</td>
+        <td class="col2" x:num="0.079">0,079</td>
+        <td class="col3" x:num="5.635149">5,635149</td>
+        <td class="col4" x:num="18.1779">18,1779</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:07:00</td>
+        <td class="col2" x:num="0.078">0,078</td>
+        <td class="col3" x:num="5.382">5,382</td>
+        <td class="col4" x:num="17.94">17,94</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:08:00</td>
+        <td class="col2" x:num="0.075">0,075</td>
+        <td class="col3" x:num="5.17725">5,17725</td>
+        <td class="col4" x:num="17.2575">17,2575</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:09:00</td>
+        <td class="col2" x:num="0.074">0,074</td>
+        <td class="col3" x:num="5.11044">5,11044</td>
+        <td class="col4" x:num="17.0348">17,0348</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:10:00</td>
+        <td class="col2" x:num="0.072">0,072</td>
+        <td class="col3" x:num="4.97016">4,97016</td>
+        <td class="col4" x:num="16.5672">16,5672</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:11:00</td>
+        <td class="col2" x:num="0.07">0,07</td>
+        <td class="col3" x:num="4.8342">4,8342</td>
+        <td class="col4" x:num="16.114">16,114</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:12:00</td>
+        <td class="col2" x:num="0.068">0,068</td>
+        <td class="col3" x:num="4.69812">4,69812</td>
+        <td class="col4" x:num="15.6604">15,6604</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:13:00</td>
+        <td class="col2" x:num="0.066">0,066</td>
+        <td class="col3" x:num="4.55796">4,55796</td>
+        <td class="col4" x:num="15.1932">15,1932</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:14:00</td>
+        <td class="col2" x:num="0.065">0,065</td>
+        <td class="col3" x:num="4.33927">4,33927</td>
+        <td class="col4" x:num="14.963">14,963</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:15:00</td>
+        <td class="col2" x:num="0.063">0,063</td>
+        <td class="col3" x:num="4.205754">4,205754</td>
+        <td class="col4" x:num="14.5026">14,5026</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:16:00</td>
+        <td class="col2" x:num="0.062">0,062</td>
+        <td class="col3" x:num="4.142592">4,142592</td>
+        <td class="col4" x:num="14.2848">14,2848</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:17:00</td>
+        <td class="col2" x:num="0.06">0,06</td>
+        <td class="col3" x:num="4.00896">4,00896</td>
+        <td class="col4" x:num="13.824">13,824</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:18:00</td>
+        <td class="col2" x:num="0.059">0,059</td>
+        <td class="col3" x:num="3.943855">3,943855</td>
+        <td class="col4" x:num="13.5995">13,5995</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:19:00</td>
+        <td class="col2" x:num="0.038">0,038</td>
+        <td class="col3" x:num="1.75104">1,75104</td>
+        <td class="col4" x:num="8.7552">8,7552</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:20:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.89895">0,89895</td>
+        <td class="col4" x:num="5.993">5,993</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:21:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.89895">0,89895</td>
+        <td class="col4" x:num="5.993">5,993</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:22:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.89934">0,89934</td>
+        <td class="col4" x:num="5.9956">5,9956</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:23:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.89934">0,89934</td>
+        <td class="col4" x:num="5.9956">5,9956</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:24:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.89973">0,89973</td>
+        <td class="col4" x:num="5.9982">5,9982</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:25:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.89037">0,89037</td>
+        <td class="col4" x:num="5.9358">5,9358</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:26:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88764">0,88764</td>
+        <td class="col4" x:num="5.9176">5,9176</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:27:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88686">0,88686</td>
+        <td class="col4" x:num="5.9124">5,9124</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:28:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88725">0,88725</td>
+        <td class="col4" x:num="5.915">5,915</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:29:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88725">0,88725</td>
+        <td class="col4" x:num="5.915">5,915</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:30:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88686">0,88686</td>
+        <td class="col4" x:num="5.9124">5,9124</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:31:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88686">0,88686</td>
+        <td class="col4" x:num="5.9124">5,9124</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:32:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88647">0,88647</td>
+        <td class="col4" x:num="5.9098">5,9098</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:33:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88686">0,88686</td>
+        <td class="col4" x:num="5.9124">5,9124</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:34:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88686">0,88686</td>
+        <td class="col4" x:num="5.9124">5,9124</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:35:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88725">0,88725</td>
+        <td class="col4" x:num="5.915">5,915</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:36:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88686">0,88686</td>
+        <td class="col4" x:num="5.9124">5,9124</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:37:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88725">0,88725</td>
+        <td class="col4" x:num="5.915">5,915</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:38:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88647">0,88647</td>
+        <td class="col4" x:num="5.9098">5,9098</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:39:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88608">0,88608</td>
+        <td class="col4" x:num="5.9072">5,9072</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:40:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88569">0,88569</td>
+        <td class="col4" x:num="5.9046">5,9046</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:41:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88608">0,88608</td>
+        <td class="col4" x:num="5.9072">5,9072</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:42:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88647">0,88647</td>
+        <td class="col4" x:num="5.9098">5,9098</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:43:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88647">0,88647</td>
+        <td class="col4" x:num="5.9098">5,9098</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:44:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88647">0,88647</td>
+        <td class="col4" x:num="5.9098">5,9098</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:45:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88608">0,88608</td>
+        <td class="col4" x:num="5.9072">5,9072</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:46:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88686">0,88686</td>
+        <td class="col4" x:num="5.9124">5,9124</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:47:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88686">0,88686</td>
+        <td class="col4" x:num="5.9124">5,9124</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:48:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88686">0,88686</td>
+        <td class="col4" x:num="5.9124">5,9124</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:49:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88686">0,88686</td>
+        <td class="col4" x:num="5.9124">5,9124</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:50:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88686">0,88686</td>
+        <td class="col4" x:num="5.9124">5,9124</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:51:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88725">0,88725</td>
+        <td class="col4" x:num="5.915">5,915</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:52:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88725">0,88725</td>
+        <td class="col4" x:num="5.915">5,915</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:53:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88764">0,88764</td>
+        <td class="col4" x:num="5.9176">5,9176</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:54:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88725">0,88725</td>
+        <td class="col4" x:num="5.915">5,915</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:55:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88725">0,88725</td>
+        <td class="col4" x:num="5.915">5,915</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:56:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88764">0,88764</td>
+        <td class="col4" x:num="5.9176">5,9176</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:57:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88842">0,88842</td>
+        <td class="col4" x:num="5.9228">5,9228</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:58:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88764">0,88764</td>
+        <td class="col4" x:num="5.9176">5,9176</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 20:59:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88725">0,88725</td>
+        <td class="col4" x:num="5.915">5,915</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:00:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88725">0,88725</td>
+        <td class="col4" x:num="5.915">5,915</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:01:00</td>
+        <td class="col2" x:num="0.027">0,027</td>
+        <td class="col3" x:num="0.859194">0,859194</td>
+        <td class="col4" x:num="6.1371">6,1371</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:02:00</td>
+        <td class="col2" x:num="0.027">0,027</td>
+        <td class="col3" x:num="0.85995">0,85995</td>
+        <td class="col4" x:num="6.1425">6,1425</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:03:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88764">0,88764</td>
+        <td class="col4" x:num="5.9176">5,9176</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:04:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88764">0,88764</td>
+        <td class="col4" x:num="5.9176">5,9176</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:05:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88725">0,88725</td>
+        <td class="col4" x:num="5.915">5,915</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:06:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88725">0,88725</td>
+        <td class="col4" x:num="5.915">5,915</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:07:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88686">0,88686</td>
+        <td class="col4" x:num="5.9124">5,9124</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:08:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88413">0,88413</td>
+        <td class="col4" x:num="5.8942">5,8942</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:09:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.8814">0,8814</td>
+        <td class="col4" x:num="5.876">5,876</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:10:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88101">0,88101</td>
+        <td class="col4" x:num="5.8734">5,8734</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:11:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88062">0,88062</td>
+        <td class="col4" x:num="5.8708">5,8708</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:12:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88101">0,88101</td>
+        <td class="col4" x:num="5.8734">5,8734</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:13:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88218">0,88218</td>
+        <td class="col4" x:num="5.8812">5,8812</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:14:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88218">0,88218</td>
+        <td class="col4" x:num="5.8812">5,8812</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:15:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88218">0,88218</td>
+        <td class="col4" x:num="5.8812">5,8812</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:16:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88218">0,88218</td>
+        <td class="col4" x:num="5.8812">5,8812</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:17:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88218">0,88218</td>
+        <td class="col4" x:num="5.8812">5,8812</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:18:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88218">0,88218</td>
+        <td class="col4" x:num="5.8812">5,8812</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:19:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88179">0,88179</td>
+        <td class="col4" x:num="5.8786">5,8786</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:20:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88179">0,88179</td>
+        <td class="col4" x:num="5.8786">5,8786</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:21:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88218">0,88218</td>
+        <td class="col4" x:num="5.8812">5,8812</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:22:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88218">0,88218</td>
+        <td class="col4" x:num="5.8812">5,8812</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:23:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88257">0,88257</td>
+        <td class="col4" x:num="5.8838">5,8838</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:24:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88296">0,88296</td>
+        <td class="col4" x:num="5.8864">5,8864</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:25:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88296">0,88296</td>
+        <td class="col4" x:num="5.8864">5,8864</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:26:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88296">0,88296</td>
+        <td class="col4" x:num="5.8864">5,8864</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:27:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88335">0,88335</td>
+        <td class="col4" x:num="5.889">5,889</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:28:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88335">0,88335</td>
+        <td class="col4" x:num="5.889">5,889</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:29:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88335">0,88335</td>
+        <td class="col4" x:num="5.889">5,889</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:30:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88452">0,88452</td>
+        <td class="col4" x:num="5.8968">5,8968</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:31:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88452">0,88452</td>
+        <td class="col4" x:num="5.8968">5,8968</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:32:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88491">0,88491</td>
+        <td class="col4" x:num="5.8994">5,8994</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:33:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88452">0,88452</td>
+        <td class="col4" x:num="5.8968">5,8968</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:34:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88452">0,88452</td>
+        <td class="col4" x:num="5.8968">5,8968</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:35:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.8853">0,8853</td>
+        <td class="col4" x:num="5.902">5,902</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:36:00</td>
+        <td class="col2" x:num="0.028">0,028</td>
+        <td class="col3" x:num="0.890232">0,890232</td>
+        <td class="col4" x:num="6.3588">6,3588</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:37:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88608">0,88608</td>
+        <td class="col4" x:num="5.9072">5,9072</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:38:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88569">0,88569</td>
+        <td class="col4" x:num="5.9046">5,9046</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:39:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88569">0,88569</td>
+        <td class="col4" x:num="5.9046">5,9046</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:40:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88569">0,88569</td>
+        <td class="col4" x:num="5.9046">5,9046</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:41:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88608">0,88608</td>
+        <td class="col4" x:num="5.9072">5,9072</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:42:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88608">0,88608</td>
+        <td class="col4" x:num="5.9072">5,9072</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:43:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88608">0,88608</td>
+        <td class="col4" x:num="5.9072">5,9072</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:44:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88608">0,88608</td>
+        <td class="col4" x:num="5.9072">5,9072</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:45:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88569">0,88569</td>
+        <td class="col4" x:num="5.9046">5,9046</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:46:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.8853">0,8853</td>
+        <td class="col4" x:num="5.902">5,902</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:47:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88374">0,88374</td>
+        <td class="col4" x:num="5.8916">5,8916</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:48:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88413">0,88413</td>
+        <td class="col4" x:num="5.8942">5,8942</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:49:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88413">0,88413</td>
+        <td class="col4" x:num="5.8942">5,8942</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:50:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88491">0,88491</td>
+        <td class="col4" x:num="5.8994">5,8994</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:51:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88491">0,88491</td>
+        <td class="col4" x:num="5.8994">5,8994</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:52:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88491">0,88491</td>
+        <td class="col4" x:num="5.8994">5,8994</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:53:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.8853">0,8853</td>
+        <td class="col4" x:num="5.902">5,902</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:54:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.8853">0,8853</td>
+        <td class="col4" x:num="5.902">5,902</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:55:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88647">0,88647</td>
+        <td class="col4" x:num="5.9098">5,9098</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:56:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88764">0,88764</td>
+        <td class="col4" x:num="5.9176">5,9176</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:57:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88764">0,88764</td>
+        <td class="col4" x:num="5.9176">5,9176</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:58:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88803">0,88803</td>
+        <td class="col4" x:num="5.9202">5,9202</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 21:59:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88764">0,88764</td>
+        <td class="col4" x:num="5.9176">5,9176</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:00:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88803">0,88803</td>
+        <td class="col4" x:num="5.9202">5,9202</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:01:00</td>
+        <td class="col2" x:num="0.027">0,027</td>
+        <td class="col3" x:num="0.862596">0,862596</td>
+        <td class="col4" x:num="6.1614">6,1614</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:02:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.89154">0,89154</td>
+        <td class="col4" x:num="5.9436">5,9436</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:03:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88842">0,88842</td>
+        <td class="col4" x:num="5.9228">5,9228</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:04:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88608">0,88608</td>
+        <td class="col4" x:num="5.9072">5,9072</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:05:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88608">0,88608</td>
+        <td class="col4" x:num="5.9072">5,9072</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:06:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88686">0,88686</td>
+        <td class="col4" x:num="5.9124">5,9124</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:07:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88686">0,88686</td>
+        <td class="col4" x:num="5.9124">5,9124</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:08:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88725">0,88725</td>
+        <td class="col4" x:num="5.915">5,915</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:09:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88725">0,88725</td>
+        <td class="col4" x:num="5.915">5,915</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:10:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88803">0,88803</td>
+        <td class="col4" x:num="5.9202">5,9202</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:11:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88803">0,88803</td>
+        <td class="col4" x:num="5.9202">5,9202</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:12:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88803">0,88803</td>
+        <td class="col4" x:num="5.9202">5,9202</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:13:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88725">0,88725</td>
+        <td class="col4" x:num="5.915">5,915</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:14:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88764">0,88764</td>
+        <td class="col4" x:num="5.9176">5,9176</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:15:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88725">0,88725</td>
+        <td class="col4" x:num="5.915">5,915</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:16:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88764">0,88764</td>
+        <td class="col4" x:num="5.9176">5,9176</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:17:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88725">0,88725</td>
+        <td class="col4" x:num="5.915">5,915</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:18:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88764">0,88764</td>
+        <td class="col4" x:num="5.9176">5,9176</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:19:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88725">0,88725</td>
+        <td class="col4" x:num="5.915">5,915</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:20:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88725">0,88725</td>
+        <td class="col4" x:num="5.915">5,915</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:21:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88764">0,88764</td>
+        <td class="col4" x:num="5.9176">5,9176</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:22:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88803">0,88803</td>
+        <td class="col4" x:num="5.9202">5,9202</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:23:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88764">0,88764</td>
+        <td class="col4" x:num="5.9176">5,9176</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:24:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88686">0,88686</td>
+        <td class="col4" x:num="5.9124">5,9124</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:25:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88647">0,88647</td>
+        <td class="col4" x:num="5.9098">5,9098</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:26:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88725">0,88725</td>
+        <td class="col4" x:num="5.915">5,915</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:27:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88725">0,88725</td>
+        <td class="col4" x:num="5.915">5,915</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:28:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88725">0,88725</td>
+        <td class="col4" x:num="5.915">5,915</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:29:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88725">0,88725</td>
+        <td class="col4" x:num="5.915">5,915</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:30:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88764">0,88764</td>
+        <td class="col4" x:num="5.9176">5,9176</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:31:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88686">0,88686</td>
+        <td class="col4" x:num="5.9124">5,9124</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:32:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88764">0,88764</td>
+        <td class="col4" x:num="5.9176">5,9176</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:33:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88764">0,88764</td>
+        <td class="col4" x:num="5.9176">5,9176</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:34:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88764">0,88764</td>
+        <td class="col4" x:num="5.9176">5,9176</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:35:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88803">0,88803</td>
+        <td class="col4" x:num="5.9202">5,9202</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:36:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88764">0,88764</td>
+        <td class="col4" x:num="5.9176">5,9176</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:37:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88803">0,88803</td>
+        <td class="col4" x:num="5.9202">5,9202</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:38:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88764">0,88764</td>
+        <td class="col4" x:num="5.9176">5,9176</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:39:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88647">0,88647</td>
+        <td class="col4" x:num="5.9098">5,9098</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:40:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88686">0,88686</td>
+        <td class="col4" x:num="5.9124">5,9124</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:41:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88686">0,88686</td>
+        <td class="col4" x:num="5.9124">5,9124</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:42:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88647">0,88647</td>
+        <td class="col4" x:num="5.9098">5,9098</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:43:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88608">0,88608</td>
+        <td class="col4" x:num="5.9072">5,9072</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:44:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88725">0,88725</td>
+        <td class="col4" x:num="5.915">5,915</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:45:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88764">0,88764</td>
+        <td class="col4" x:num="5.9176">5,9176</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:46:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88647">0,88647</td>
+        <td class="col4" x:num="5.9098">5,9098</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:47:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88725">0,88725</td>
+        <td class="col4" x:num="5.915">5,915</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:48:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88764">0,88764</td>
+        <td class="col4" x:num="5.9176">5,9176</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:49:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88803">0,88803</td>
+        <td class="col4" x:num="5.9202">5,9202</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:50:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88803">0,88803</td>
+        <td class="col4" x:num="5.9202">5,9202</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:51:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88842">0,88842</td>
+        <td class="col4" x:num="5.9228">5,9228</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:52:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88881">0,88881</td>
+        <td class="col4" x:num="5.9254">5,9254</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:53:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88842">0,88842</td>
+        <td class="col4" x:num="5.9228">5,9228</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:54:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88881">0,88881</td>
+        <td class="col4" x:num="5.9254">5,9254</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:55:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.8892">0,8892</td>
+        <td class="col4" x:num="5.928">5,928</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:56:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.8892">0,8892</td>
+        <td class="col4" x:num="5.928">5,928</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:57:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88842">0,88842</td>
+        <td class="col4" x:num="5.9228">5,9228</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:58:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88842">0,88842</td>
+        <td class="col4" x:num="5.9228">5,9228</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 22:59:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88725">0,88725</td>
+        <td class="col4" x:num="5.915">5,915</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:00:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88686">0,88686</td>
+        <td class="col4" x:num="5.9124">5,9124</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:01:00</td>
+        <td class="col2" x:num="0.028">0,028</td>
+        <td class="col3" x:num="0.891408">0,891408</td>
+        <td class="col4" x:num="6.3672">6,3672</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:02:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88608">0,88608</td>
+        <td class="col4" x:num="5.9072">5,9072</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:03:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88647">0,88647</td>
+        <td class="col4" x:num="5.9098">5,9098</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:04:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88725">0,88725</td>
+        <td class="col4" x:num="5.915">5,915</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:05:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88725">0,88725</td>
+        <td class="col4" x:num="5.915">5,915</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:06:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88764">0,88764</td>
+        <td class="col4" x:num="5.9176">5,9176</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:07:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88764">0,88764</td>
+        <td class="col4" x:num="5.9176">5,9176</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:08:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88803">0,88803</td>
+        <td class="col4" x:num="5.9202">5,9202</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:09:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88764">0,88764</td>
+        <td class="col4" x:num="5.9176">5,9176</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:10:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88803">0,88803</td>
+        <td class="col4" x:num="5.9202">5,9202</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:11:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88881">0,88881</td>
+        <td class="col4" x:num="5.9254">5,9254</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:12:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88881">0,88881</td>
+        <td class="col4" x:num="5.9254">5,9254</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:13:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.8892">0,8892</td>
+        <td class="col4" x:num="5.928">5,928</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:14:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88959">0,88959</td>
+        <td class="col4" x:num="5.9306">5,9306</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:15:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88959">0,88959</td>
+        <td class="col4" x:num="5.9306">5,9306</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:16:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88959">0,88959</td>
+        <td class="col4" x:num="5.9306">5,9306</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:17:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88998">0,88998</td>
+        <td class="col4" x:num="5.9332">5,9332</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:18:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88998">0,88998</td>
+        <td class="col4" x:num="5.9332">5,9332</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:19:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.89037">0,89037</td>
+        <td class="col4" x:num="5.9358">5,9358</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:20:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.89037">0,89037</td>
+        <td class="col4" x:num="5.9358">5,9358</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:21:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88881">0,88881</td>
+        <td class="col4" x:num="5.9254">5,9254</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:22:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88686">0,88686</td>
+        <td class="col4" x:num="5.9124">5,9124</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:23:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88608">0,88608</td>
+        <td class="col4" x:num="5.9072">5,9072</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:24:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88647">0,88647</td>
+        <td class="col4" x:num="5.9098">5,9098</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:25:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88686">0,88686</td>
+        <td class="col4" x:num="5.9124">5,9124</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:26:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88647">0,88647</td>
+        <td class="col4" x:num="5.9098">5,9098</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:27:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88608">0,88608</td>
+        <td class="col4" x:num="5.9072">5,9072</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:28:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88608">0,88608</td>
+        <td class="col4" x:num="5.9072">5,9072</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:29:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88647">0,88647</td>
+        <td class="col4" x:num="5.9098">5,9098</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:30:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88608">0,88608</td>
+        <td class="col4" x:num="5.9072">5,9072</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:31:00</td>
+        <td class="col2" x:num="0.027">0,027</td>
+        <td class="col3" x:num="0.920565">0,920565</td>
+        <td class="col4" x:num="6.1371">6,1371</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:32:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88647">0,88647</td>
+        <td class="col4" x:num="5.9098">5,9098</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:33:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88569">0,88569</td>
+        <td class="col4" x:num="5.9046">5,9046</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:34:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.8853">0,8853</td>
+        <td class="col4" x:num="5.902">5,902</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:35:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88569">0,88569</td>
+        <td class="col4" x:num="5.9046">5,9046</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:36:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88569">0,88569</td>
+        <td class="col4" x:num="5.9046">5,9046</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:37:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88569">0,88569</td>
+        <td class="col4" x:num="5.9046">5,9046</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:38:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88569">0,88569</td>
+        <td class="col4" x:num="5.9046">5,9046</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:39:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88608">0,88608</td>
+        <td class="col4" x:num="5.9072">5,9072</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:40:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.944736">0,944736</td>
+        <td class="col4" x:num="5.9046">5,9046</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:41:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88608">0,88608</td>
+        <td class="col4" x:num="5.9072">5,9072</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:42:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.8853">0,8853</td>
+        <td class="col4" x:num="5.902">5,902</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:43:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.8853">0,8853</td>
+        <td class="col4" x:num="5.902">5,902</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:44:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88608">0,88608</td>
+        <td class="col4" x:num="5.9072">5,9072</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:45:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88569">0,88569</td>
+        <td class="col4" x:num="5.9046">5,9046</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:46:00</td>
+        <td class="col2" x:num="0.027">0,027</td>
+        <td class="col3" x:num="0.92016">0,92016</td>
+        <td class="col4" x:num="6.1344">6,1344</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:47:00</td>
+        <td class="col2" x:num="0.027">0,027</td>
+        <td class="col3" x:num="0.92016">0,92016</td>
+        <td class="col4" x:num="6.1344">6,1344</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:48:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.8853">0,8853</td>
+        <td class="col4" x:num="5.902">5,902</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:49:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88491">0,88491</td>
+        <td class="col4" x:num="5.8994">5,8994</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:50:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88569">0,88569</td>
+        <td class="col4" x:num="5.9046">5,9046</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:51:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88608">0,88608</td>
+        <td class="col4" x:num="5.9072">5,9072</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:52:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88569">0,88569</td>
+        <td class="col4" x:num="5.9046">5,9046</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:53:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88608">0,88608</td>
+        <td class="col4" x:num="5.9072">5,9072</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:54:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88647">0,88647</td>
+        <td class="col4" x:num="5.9098">5,9098</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:55:00</td>
+        <td class="col2" x:num="0.026">0,026</td>
+        <td class="col3" x:num="0.88725">0,88725</td>
+        <td class="col4" x:num="5.915">5,915</td>
+      </tr>
+      <tr class="tbody">
+        <td class="col1">09-11-2022 23:56:00</td>
+        <td class="col2" x:num="0.024">0,024</td>
+        <td class="col3" x:num="0.54552">0,54552</td>
+        <td class="col4" x:num="5.4552">5,4552</td>
+      </tr>
+    </table>
+  </body>
+</html>
